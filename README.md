@@ -44,3 +44,8 @@ Webcam – 20 €
 USB mini cable – 5 €  
 
 5 κροκοδειλάκια σύνδεσης - 4 €
+
+# Επιπλέον Πληροφορίες
+Δείτε την παρουσίαση του έργου μας: https://youtu.be/Vcv_YBVk7qM
+
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2024/robotakia-fire-entopismos-diadromis-pirosvestikis/ 
